@@ -47,4 +47,6 @@ def pair3(nums, k):
             h[n] = 1
     return False
 
+# assert pair1([10, 15, 3, 7], 17) == True
 # assert pair2([10, 15, 3, 7], 17) == True
+# assert pair3([10, 15, 3, 7], 17) == True
