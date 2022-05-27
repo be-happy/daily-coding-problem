@@ -6,7 +6,7 @@ Solutions to problems sent by dailycodingproblem.com
 |---|---|---|---|---|---|---|---|---|---|
 |[1](#problem-1)||||||||||
 |||||||||||
-|||||||||||
+|||||||[27](#problem-27)||||
 |||||||||||
 |||||||||||
 |||||||||||
@@ -30,6 +30,16 @@ Bonus: Can you do this in one pass?
 
 [Solution](solutions/problem-0001.py)
 
+
+#### Problem 27
+
+Given a string of round, curly, and square open and closing brackets, return whether the brackets are balanced (well-formed).
+
+For example, given the string `"([])[]({})"`, you should return true.
+
+Given the string `"([)]"` or `"((()"`, you should return false.
+
+[Solution](solutions/problem-0027.py)
 
 #### Problem 131
 
