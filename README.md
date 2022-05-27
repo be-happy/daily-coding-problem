@@ -5,7 +5,7 @@ Solutions to problems sent by dailycodingproblem.com
 |||||||||||
 |---|---|---|---|---|---|---|---|---|---|
 |[1](#problem-1)||||||||||
-|||||||||||
+|||[13](#problem-13)||||||||
 |||||||[27](#problem-27)||||
 |||||||||||
 |||||||||||
@@ -30,6 +30,13 @@ Bonus: Can you do this in one pass?
 
 [Solution](solutions/problem-0001.py)
 
+#### Problem 13
+
+Given an integer `k` and a string `s`, find the length of the longest substring that contains at most k distinct characters.
+
+For example, given `s = "abcba"` and `k = 2`, the longest substring with k distinct characters is `"bcb"`.
+
+[Solution](solutions/problem-0013.py)
 
 #### Problem 27
 
